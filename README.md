@@ -1,3 +1,8 @@
-Code by: Leo Cao
+Simpe text based rpg.
 
-A very simple rpg based game
+</br> </br>
+The player can:
+  - Input instructions for different activities
+  - swap weapons in their inventory
+  - fight against monsters
+  - level up after a battle

@@ -38,6 +38,7 @@ int main(){
         if(command == '0'){
             death = true;
         }
+        //cheat code to increase the player's level
         if(command == 'g')
         {
             user.set_xp(100000);
